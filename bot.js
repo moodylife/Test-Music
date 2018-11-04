@@ -3,7 +3,7 @@ const client = new Discord.Client();
  
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-   client.user.setActivity("اiTzMoody <3",{type: 'WATCHING'})
+   client.user.setActivity("اiTzMoody <3",{type: 'Moodying'})
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
